@@ -1,0 +1,65 @@
+[
+  {
+    "id": "phone_0",
+    "manufacturer": "Apple",
+    "model": "iPhone",
+    "series": "11 Pro",
+    "image": "iPhone11Pro.jpg",
+    "price": "4 souls",
+    "cameras": 3,
+    "colors": [
+      "#52514f",
+      "#ebebe3",
+      "#6d7a71",
+      "#fbd7bd"
+    ]
+  },
+  {
+    "id": "phone_1",
+    "manufacturer": "Apple",
+    "model": "iPhone",
+    "series": "11",
+    "image": "iPhone11.jpg",
+    "price": "3 souls",
+    "cameras": 2,
+    "colors": [
+      "#f9f6ef",
+      "#1f2120",
+      "#ade0cd",
+      "#ffe681",
+      "#d1cddb",
+      "#ba0c2f"
+    ]
+  },
+  {
+    "id": "phone_2",
+    "manufacturer": "Apple",
+    "model": "iPhone",
+    "series": "Xr",
+    "image": "iPhoneXr.jpg",
+    "price": "2 souls",
+    "cameras": 1,
+    "colors": [
+      "#f3f3f3",
+      "#1d1d1d",
+      "#47afe6",
+      "#f9cf45",
+      "#ff6e5b",
+      "#980110"
+    ]
+  },
+  {
+    "id": "phone_3",
+    "manufacturer": "Apple",
+    "model": "iPhone",
+    "series": "8",
+    "image": "iPhone8.jpg",
+    "price": "1 souls",
+    "cameras": 1,
+    "colors": [
+      "#3a3a3c",
+      "#dddfde",
+      "#e2d0ba"
+    ]
+  }
+]
